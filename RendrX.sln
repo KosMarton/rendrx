@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{26090A7C-0000-42AC-B8F3-9C98DA27ECE3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RendrX", "RendrX\RendrX.vcxproj", "{99BF362A-DE7C-4DCD-97CD-4F6979B249E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99BF362A-DE7C-4DCD-97CD-4F6979B249E7}.Debug|x64.ActiveCfg = Debug|x64
+		{99BF362A-DE7C-4DCD-97CD-4F6979B249E7}.Debug|x64.Build.0 = Debug|x64
+		{99BF362A-DE7C-4DCD-97CD-4F6979B249E7}.Release|x64.ActiveCfg = Release|x64
+		{99BF362A-DE7C-4DCD-97CD-4F6979B249E7}.Release|x64.Build.0 = Release|x64
+		{26090A7C-0000-42AC-B8F3-9C98DA27ECE3}.Debug|x64.ActiveCfg = Debug|x64
+		{26090A7C-0000-42AC-B8F3-9C98DA27ECE3}.Debug|x64.Build.0 = Debug|x64
+		{26090A7C-0000-42AC-B8F3-9C98DA27ECE3}.Release|x64.ActiveCfg = Release|x64
+		{26090A7C-0000-42AC-B8F3-9C98DA27ECE3}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F968533-E39F-4C28-AA63-3101F81753FD}
+	EndGlobalSection
+EndGlobal
